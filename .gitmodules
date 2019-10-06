@@ -10,3 +10,6 @@
 [submodule "RadixSort"]
 	path = RadixSort
 	url = https://github.com/isaacmba/RadixSort.git
+[submodule "KMeansAlg"]
+	path = KMeansAlg
+	url = https://github.com/isaacmba/KMeansAlg.git
