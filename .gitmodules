@@ -16,3 +16,6 @@
 [submodule "SchedulingAlg"]
 	path = SchedulingAlg
 	url = https://github.com/isaacmba/SchedulingAlg.git
+[submodule "TravellingSalesmanAStar"]
+	path = TravellingSalesmanAStar
+	url = https://github.com/isaacmba/TravellingSalesmanAStar.git
