@@ -7,3 +7,6 @@
 [submodule "HuffmanBinTree"]
 	path = HuffmanBinTree
 	url = https://github.com/isaacmba/HuffmanBinTree.git
+[submodule "RadixSort"]
+	path = RadixSort
+	url = https://github.com/isaacmba/RadixSort.git
