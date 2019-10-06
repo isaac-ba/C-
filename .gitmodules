@@ -13,3 +13,6 @@
 [submodule "KMeansAlg"]
 	path = KMeansAlg
 	url = https://github.com/isaacmba/KMeansAlg.git
+[submodule "SchedulingAlg"]
+	path = SchedulingAlg
+	url = https://github.com/isaacmba/SchedulingAlg.git
